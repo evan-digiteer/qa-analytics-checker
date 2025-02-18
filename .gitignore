@@ -169,3 +169,21 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Project specific
+reports/
+*.html
+
+# Selenium
+geckodriver.log
+chromedriver.log
+
+# IDE
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Debug
+debug.log
+*.debug
